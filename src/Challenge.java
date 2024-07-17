@@ -17,5 +17,12 @@ public class Challenge {
             System.out.println("There is no remainder!");
         }
 
+
+        double z = 7;
+        double o = 96;
+
+        double hannah = z % o;
+        System.out.println(hannah);
+
     }
 }
